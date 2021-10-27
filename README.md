@@ -1,4 +1,4 @@
-# [Rag-Rats.co](https://rag-bath-co.github.io/Rag-Bath.coCommunity/) &middot; [GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# [Rag-Rats.co](https://rag-bath-co.github.io/Rag-Bath.coCommunity/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 An organization headed by @euphoriceagle and Raghav IDK with slight assist from @thathctdev
 
