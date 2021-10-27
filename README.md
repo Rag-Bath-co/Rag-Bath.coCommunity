@@ -10,7 +10,7 @@ function HelloMessage({ name }) {
 }
 
 ReactDOM.render(
-  <HelloMessage name="Taylor" />,
+  <HelloMessage name="Check for errors" />,
   document.getElementById('container')
 );
 ```
